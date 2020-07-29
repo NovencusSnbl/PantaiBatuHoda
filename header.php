@@ -10,16 +10,13 @@
 	<div class="collapse navbar-collapse" id="navbarResponsive">
 		<ul class="navbar-nav ml-auto">
 			<li class="nav-item">
-				<a class="nav-link" href="#">Home</a>
-			</li>
-			<li class="nav-item">
-				<a class="nav-link" href="#">Tentang</a>
+				<a class="nav-link" href="#tentang">Tentang</a>
 			</li>			
 			<li class="nav-item">
-				<a class="nav-link" href="#">Fasilitas</a>
+				<a class="nav-link" href="#fasilitas">Fasilitas</a>
 			</li>			
 			<li class="nav-item">
-				<a class="nav-link" href="#">Hubungi Kami</a>
+				<a class="nav-link" href="#contact">Hubungi Kami</a>
 			</li>
 		</ul>
 	</div>

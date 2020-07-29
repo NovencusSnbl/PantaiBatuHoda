@@ -1,6 +1,6 @@
 <footer class="page-footer font-small mdb-color pt-4">
 
-  <div class="container-fluid text-center text-md-left">
+  <div class="container-fluid text-center text-md-left" id="contact">
     <hr>
     <div class="row d-flex align-items-center">
       <div class="col-md-7 col-lg-8">

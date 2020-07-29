@@ -71,7 +71,7 @@
 <!-- Tentang -->
 <div class="container-fluid padding">
 <div class="row welcome text-center">
-	<div class="col-12">
+	<div class="col-12" id="tentang">
 		<h1 class="display-4">Tentang</h1>
 	</div>
 	<hr>
@@ -94,7 +94,7 @@
 </div>
 
 <!-- Wahana Air -->
-<div class="container-fluid padding dark-nav">
+<div class="container-fluid padding dark-nav" id="fasilitas">
 <div class="row welcome text-center">
 	<div class="col-12">
 		<h1 class="display-4">Wahana Air</h1>
@@ -104,7 +104,7 @@
 <div class="row text-center padding">
 	<div class="col-md-3">
 		<div class="card">
-			<img class="card-img-top"src="img/banana.jpg">
+			<img class="card-img-top"src="img/banana.png">
 			<div class="card-body">
 				<h4 class="card-title">Banana Boat</h4>
 				<p class="card-text">Rp. 200.000/trip</p>
@@ -113,7 +113,7 @@
 	</div>
 	<div class="col-md-3">
 		<div class="card">
-			<img class="card-img-top"src="img/kano.jpg">
+			<img class="card-img-top"src="img/kano.png">
 			<div class="card-body">
 				<h4 class="card-title">Kano</h4>
 				<p class="card-text">Rp. 50.000/trip</p>
@@ -122,7 +122,7 @@
 	</div>
 	<div class="col-md-3">
 		<div class="card">
-			<img class="card-img-top"src="img/sepeda.jpg">
+			<img class="card-img-top"src="img/sepeda.png">
 			<div class="card-body">
 				<h4 class="card-title">Sepeda Air</h4>
 				<p class="card-text">Rp. 50.000/trip</p>
@@ -150,7 +150,7 @@
 <div class="row text-center padding">
 	<div class="col-md-3">
 		<div class="card">
-			<img class="card-img-top"src="img/standardroom.jpg">
+			<img class="card-img-top"src="img/standar.png">
 			<div class="card-body">
 				<h4 class="card-title">Standard Room</h4>
 				<p class="card-text">Rp. 265.000/trip</p>
@@ -159,7 +159,7 @@
 	</div>
 	<div class="col-md-3">
 		<div class="card">
-			<img class="card-img-top"src="img/familyroom.jpg">
+			<img class="card-img-top"src="img/family.png">
 			<div class="card-body">
 				<h4 class="card-title">Family Room</h4>
 				<p class="card-text">Rp. 460.000/trip</p>
@@ -168,7 +168,7 @@
 	</div>
 	<div class="col-md-3">
 		<div class="card">
-			<img class="card-img-top"src="img/villa.jpg">
+			<img class="card-img-top"src="img/villa.png">
 			<div class="card-body">
 				<h4 class="card-title">Villa</h4>
 				<p class="card-text">Rp. 800.000/trip</p>
@@ -183,6 +183,11 @@
 				<p class="card-text">Rp.30.000/orang untuk 1 malam</p>
 			</div>
 		</div>
+	</div>
+</div>
+<div class="row welcome text-center">
+	<div class="col-12" id="tentang">
+		<a href="rooms.php" class="button"><b> View More</b></a>
 	</div>
 </div>
 </div>
